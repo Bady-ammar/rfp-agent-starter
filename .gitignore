@@ -1,0 +1,16 @@
+# OS cruft
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / agent local state
+.vscode/
+.idea/
+.claude/
+
+# PDF exports — regenerate from any RFP.md if you produce them
+rfps/**/*.pdf
