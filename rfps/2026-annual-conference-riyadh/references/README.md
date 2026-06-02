@@ -1,4 +1,4 @@
-# References — Tharwah Co. Annual Conference 2026
+# References — Extend Co. Annual Conference 2026
 
 Every supporting file for **this RFP** lives here: brand guidelines, venue
 floor plans, prior-year run sheets, vendor brochures, images — anything the

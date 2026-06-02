@@ -1,4 +1,4 @@
-# This RFP — Tharwah Co. Annual Conference 2026 (Riyadh)
+# This RFP — Extend Co. Annual Conference 2026 (Riyadh)
 
 > Filled-in example of a per-RFP `CLAUDE.md`. It records the decisions behind
 > `RFP.md` so context survives across sessions. The root `CLAUDE.md` governs
@@ -34,7 +34,7 @@ branding, staffing, and permits, from a single vendor.
 - **Compliance / legal constraints:** vendor secures all permits; catering
   from municipally licensed kitchens; KSA governing law.
 - **Open questions:** exact event date (venue-dependent); possible 4th
-  breakout track; Tharwah's standard payment terms ([TODO] in §10).
+  breakout track; Extend's standard payment terms ([TODO] in §10).
 
 ## Research done
 - `research/market-research.md` — regulators (SCEGA, Civil Defense), standards

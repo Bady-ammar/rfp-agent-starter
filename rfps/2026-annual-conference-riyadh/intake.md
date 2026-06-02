@@ -2,13 +2,13 @@
 
 The interview this RFP was built from. The agent used AskUserQuestion to work
 through these; answers are paraphrased. *(This example uses illustrative
-answers for a fictional company, "Tharwah Co.")*
+answers for a fictional company, "Extend Co.")*
 
 > Note how the agent didn't just collect answers — it **offered options**,
 > **clarified**, and **challenged** a couple of requests (see ⚑).
 
 ## What's being procured
-Full event-management services for Tharwah Co.'s annual employee + partner
+Full event-management services for Extend Co.'s annual employee + partner
 conference: one day, ~800 attendees, Riyadh, Q4 2026. A single vendor to
 handle venue sourcing, production/AV, registration, catering coordination,
 branding/signage, logistics, and on-site staffing.
@@ -18,7 +18,7 @@ branding/signage, logistics, and on-site staffing.
   & desks; catering coordination; branding & signage; photography/videography;
   on-site staffing & event management; all permits.
 - **Out:** attendee travel & hotels; speaker fees & honoraria; content/agenda
-  (Tharwah provides); giveaways/swag procurement.
+  (Extend provides); giveaways/swag procurement.
 
 ## Key answers
 - **Date / scale:** one day, Q4 2026 (target November), 800 attendees
@@ -27,7 +27,7 @@ branding/signage, logistics, and on-site staffing.
   tracks (~250 each) + networking lunch.
 - **Budget:** SAR 1.2M–1.6M all-in, excl. VAT. ⚑ *The agent flagged that the
   original "around SAR 700k" figure was below market for 800 pax with full
-  production in Riyadh, and proposed the higher band; Tharwah agreed.*
+  production in Riyadh, and proposed the higher band; Extend agreed.*
 - **Pricing model:** fixed-price per the required cost breakdown, excl. VAT
   (15% shown separately).
 - **Must-haves (M):** SCEGA-licensed organizer; SCEGA-accredited venue with
@@ -35,7 +35,7 @@ branding/signage, logistics, and on-site staffing.
   recording; bilingual (AR/EN) signage & registration.
 - **Nice-to-haves (D):** ISO 20121 sustainability practices; mobile event app;
   live streaming of the plenary.
-- **Evaluation:** quality-led. ⚑ *Tharwah first asked for "lowest price wins";
+- **Evaluation:** quality-led. ⚑ *Extend first asked for "lowest price wins";
   the agent challenged this for a brand-facing event and proposed a 70/30
   technical/price split, which was accepted.*
 - **Eligibility:** ≥ 3 comparable Saudi corporate events (≥ 500 pax) in the
