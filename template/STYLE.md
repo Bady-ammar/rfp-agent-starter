@@ -39,7 +39,7 @@ bid against without guessing, and an evaluation committee can score fairly.
 
 ## Language (Arabic + English)
 - Write in the organization's default language (see the **Organization
-  profile** in the root `CLAUDE.md`).
+  profile** in the root `AGENTS.md`).
 - In Arabic text, keep technical terms and acronyms in English inline —
   `RFP`, `SLA`, `KPI`, `VAT`, `AV`, `Wi-Fi` — rather than transliterating.
 - Currency is **SAR**; state the VAT treatment explicitly.

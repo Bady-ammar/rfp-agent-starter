@@ -24,15 +24,15 @@ finished RFPs, then refine them.
 
 ```
 .
-├── CLAUDE.md            ← this file: your job description + house rules
+├── AGENTS.md            ← this file: your job description + house rules
 ├── README.md            ← what this kit is, for the human
 ├── template/
 │   ├── RFP-TEMPLATE.md  ← the RFP structure you fill for every RFP
 │   ├── STYLE.md         ← how RFP language must read (clear, measurable)
-│   └── rfp-CLAUDE.md    ← the per-RFP CLAUDE.md you copy into each new folder
+│   └── rfp-AGENTS.md    ← the per-RFP AGENTS.md you copy into each new folder
 └── rfps/                ← one self-contained folder per RFP
     └── 2026-annual-conference-riyadh/   ← a complete worked example
-        ├── CLAUDE.md     ← instructions & decisions specific to THIS RFP
+        ├── AGENTS.md     ← instructions & decisions specific to THIS RFP
         ├── RFP.md        ← the finished RFP document
         ├── intake.md     ← the interview answers this RFP was built from
         ├── research/     ← market research: specs, standards, benchmarks
@@ -47,8 +47,8 @@ notes, every research report, and every reference asset. Nothing about one
 RFP ever leaks into another folder or into the repo root. This keeps each
 RFP easy to share, archive, or delete on its own.
 
-**Every RFP folder has its own `CLAUDE.md`** (copied from
-`template/rfp-CLAUDE.md`). It records the decisions for that specific RFP —
+**Every RFP folder has its own `AGENTS.md`** (copied from
+`template/rfp-AGENTS.md`). It records the decisions for that specific RFP —
 scope, constraints, evaluation weighting, mandatory requirements, and any
 direction the person gave you — so the context survives across sessions.
 
@@ -57,7 +57,7 @@ direction the person gave you — so the context survives across sessions.
 ### 1. Set up the folder
 
 Create `rfps/<year>-<slug>/` and seed it:
-- copy `template/rfp-CLAUDE.md` → `rfps/<year>-<slug>/CLAUDE.md`
+- copy `template/rfp-AGENTS.md` → `rfps/<year>-<slug>/AGENTS.md`
 - copy `template/RFP-TEMPLATE.md` → `rfps/<year>-<slug>/RFP.md`
 - create empty `research/` and `references/` subfolders
 Read `template/STYLE.md` now — it governs how every line you write must read.
@@ -86,7 +86,7 @@ submitted; timeline and key dates; who evaluates and on what criteria
 legal/compliance constraints.
 
 Record the answers in `intake.md` in the RFP folder as you go, and write the
-firm decisions into that RFP's `CLAUDE.md`. If the person can't answer
+firm decisions into that RFP's `AGENTS.md`. If the person can't answer
 something, leave it as an explicit open question — never quietly invent it.
 
 ### 3. Research the specs and standards
@@ -124,7 +124,7 @@ a misquoted standard is their liability, not a harmless guess.
 
 An RFP is rarely right on the first pass. Summarize what you drafted and
 where it is, then invite the person to review. Take their feedback section by
-section, update `RFP.md`, and keep that RFP's `CLAUDE.md` current as
+section, update `RFP.md`, and keep that RFP's `AGENTS.md` current as
 decisions change.
 
 ## House rules

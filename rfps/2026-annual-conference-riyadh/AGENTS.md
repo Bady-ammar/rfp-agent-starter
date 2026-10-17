@@ -1,7 +1,7 @@
 # This RFP — Extend Co. Annual Conference 2026 (Riyadh)
 
-> Filled-in example of a per-RFP `CLAUDE.md`. It records the decisions behind
-> `RFP.md` so context survives across sessions. The root `CLAUDE.md` governs
+> Filled-in example of a per-RFP `AGENTS.md`. It records the decisions behind
+> `RFP.md` so context survives across sessions. The root `AGENTS.md` governs
 > *how* to work; this file records *what was decided here*.
 
 ## Status

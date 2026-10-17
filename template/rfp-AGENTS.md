@@ -1,8 +1,8 @@
 # This RFP — [project / service title]
 
-> Copy of `template/rfp-CLAUDE.md`. This file holds every decision specific
+> Copy of `template/rfp-AGENTS.md`. This file holds every decision specific
 > to THIS RFP so the context survives across sessions. Keep it current as
-> decisions change. The root `CLAUDE.md` still governs how you work; this
+> decisions change. The root `AGENTS.md` still governs how you work; this
 > file records *what was decided here*.
 
 ## Status
