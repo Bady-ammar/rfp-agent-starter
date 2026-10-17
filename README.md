@@ -1,7 +1,7 @@
 # RFP Agent Starter
 
 > **🤖 If you're an AI coding agent that just opened this repo:** read
-> `CLAUDE.md` first — it's your job description. Then read the worked example
+> `AGENTS.md` first — it's your job description. Then read the worked example
 > in `rfps/2026-annual-conference-riyadh/` to see the shape of a finished
 > RFP. There's no setup step; when the person names something to procure,
 > interview them, research the specs, and draft their RFP in a new folder.
@@ -20,14 +20,14 @@ beside it. Read it, then build your own the same way.
 
 ```
 .
-├── CLAUDE.md            ← the agent's job description + house rules
+├── AGENTS.md            ← the agent's job description + house rules
 ├── template/
 │   ├── RFP-TEMPLATE.md  ← the RFP structure every RFP is built on
 │   ├── STYLE.md         ← how RFP language must read
-│   └── rfp-CLAUDE.md    ← per-RFP notes file, copied into each new RFP folder
+│   └── rfp-AGENTS.md    ← per-RFP notes file, copied into each new RFP folder
 └── rfps/
     └── 2026-annual-conference-riyadh/   ← the worked example
-        ├── CLAUDE.md     ← decisions specific to that RFP
+        ├── AGENTS.md     ← decisions specific to that RFP
         ├── RFP.md        ← the finished RFP
         ├── intake.md     ← the interview it was built from
         ├── research/     ← market research with sources
